@@ -22,10 +22,15 @@ The project follows a layered structure:
 
 Hotel-Management-System
 │
+
 ├── api        # Handles interaction between UI and services
+
 ├── service    # Business logic of the application
+
 ├── model      # Data models such as Customer, Room, Reservation
+
 ├── ui         # Console user interface
+
 └── main       # Entry point of the application
 
 ## 🛠️ Technologies Used
