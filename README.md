@@ -21,6 +21,7 @@ This system allows users to manage hotel data through a simple command-line inte
 The project follows a layered structure:
 
 Hotel-Management-System
+
 │
 
 ├── api        # Handles interaction between UI and services
