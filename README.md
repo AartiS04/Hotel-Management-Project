@@ -40,5 +40,5 @@ Hotel-Management-System
 * **Object-Oriented Programming (OOP)**
 * **Console-based Interface**
 
-## From where to run?
+## How to run?
 To run the code you just have to clone/download the whole repository and run the HotelApplication.java in ui folder
